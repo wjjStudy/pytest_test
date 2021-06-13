@@ -1,0 +1,81 @@
+{
+  "uid" : "b1260c5698523522",
+  "name" : "用例标题0-title",
+  "fullName" : "testcases.test_case5.TestAllure#test_0",
+  "historyId" : "e362538ee17c59cba07c773501e14c24",
+  "time" : {
+    "start" : 1618358617563,
+    "stop" : 1618358617564,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "74ee64c1665d0d4b",
+      "name" : "我是附件名",
+      "source" : "74ee64c1665d0d4b.txt",
+      "type" : "text/plain",
+      "size" : 25
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "这里是一级标签feature"
+  }, {
+    "name" : "story",
+    "value" : "这里是第一个二级标签story"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcases"
+  }, {
+    "name" : "suite",
+    "value" : "test_case5"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestAllure"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-FOMDLQ6L"
+  }, {
+    "name" : "thread",
+    "value" : "19660-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcases.test_case5"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "param",
+    "value" : "'青铜'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b1260c5698523522.json",
+  "parameterValues" : [ "'青铜'" ]
+}

@@ -1,0 +1,86 @@
+{
+  "uid" : "b21deb3921549552",
+  "name" : "test_1[my_fixture0]",
+  "fullName" : "testcases.test_case1#test_1",
+  "historyId" : "3a05b1e78bdcdd133568736174fcdad7",
+  "time" : {
+    "start" : 1618358616063,
+    "stop" : 1618358616064,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "my_fixture",
+    "time" : {
+      "start" : 1618358616059,
+      "stop" : 1618358616062,
+      "duration" : 3
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "my_fixture::close_connection",
+    "time" : {
+      "start" : 1618358616064,
+      "stop" : 1618358616065,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "testcases"
+  }, {
+    "name" : "suite",
+    "value" : "test_case1"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-FOMDLQ6L"
+  }, {
+    "name" : "thread",
+    "value" : "19660-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcases.test_case1"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "my_fixture",
+    "value" : "{'host': '127.0.0.1', 'port': 3306, 'db': 'found', 'user': 'root', 'password': 'Wjj@123456'}"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b21deb3921549552.json",
+  "parameterValues" : [ "{'host': '127.0.0.1', 'port': 3306, 'db': 'found', 'user': 'root', 'password': 'Wjj@123456'}" ]
+}

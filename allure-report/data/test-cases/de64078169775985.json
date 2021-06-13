@@ -1,0 +1,56 @@
+{
+  "uid" : "de64078169775985",
+  "name" : "test_tianqi[101010100]",
+  "fullName" : "testcases.test_case3#test_tianqi",
+  "historyId" : "10ad3cc18008652e69248bfd604a37b8",
+  "time" : {
+    "start" : 1618358616504,
+    "stop" : 1618358616864,
+    "duration" : 360
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "testcases"
+  }, {
+    "name" : "suite",
+    "value" : "test_case3"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-FOMDLQ6L"
+  }, {
+    "name" : "thread",
+    "value" : "19660-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcases.test_case3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "cityID",
+    "value" : "'101010100'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "de64078169775985.json",
+  "parameterValues" : [ "'101010100'" ]
+}

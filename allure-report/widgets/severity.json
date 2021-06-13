@@ -1,0 +1,161 @@
+[ {
+  "uid" : "8f9833cd8bb911c6",
+  "name" : "test_three",
+  "time" : {
+    "start" : 1618358617557,
+    "stop" : 1618358617557,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b1260c5698523522",
+  "name" : "用例标题0-title",
+  "time" : {
+    "start" : 1618358617563,
+    "stop" : 1618358617564,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c9beb29a0bce1b10",
+  "name" : "test_tianqi[101200401]",
+  "time" : {
+    "start" : 1618358616871,
+    "stop" : 1618358617212,
+    "duration" : 341
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d97fab6aa4230225",
+  "name" : "用例标题1-title",
+  "time" : {
+    "start" : 1618358617583,
+    "stop" : 1618358617586,
+    "duration" : 3
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f40d4b5820425827",
+  "name" : "用例标题2-title",
+  "time" : {
+    "start" : 1618358617592,
+    "stop" : 1618358617592,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e8d431bbf64babdb",
+  "name" : "用例标题0-title",
+  "time" : {
+    "start" : 1618358617577,
+    "stop" : 1618358617578,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "de64078169775985",
+  "name" : "test_tianqi[101010100]",
+  "time" : {
+    "start" : 1618358616504,
+    "stop" : 1618358616864,
+    "duration" : 360
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "122677b8237c6bec",
+  "name" : "test_02",
+  "time" : {
+    "start" : 1618358616069,
+    "stop" : 1618358616069,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b68456317064da17",
+  "name" : "test_tianqi[101210301]",
+  "time" : {
+    "start" : 1618358617221,
+    "stop" : 1618358617525,
+    "duration" : 304
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8b6a96a1a8c6bfe4",
+  "name" : "test_2",
+  "time" : {
+    "start" : 1618358617601,
+    "stop" : 1618358617601,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "75c579dee294142e",
+  "name" : "test_two",
+  "time" : {
+    "start" : 1618358617541,
+    "stop" : 1618358617543,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b21deb3921549552",
+  "name" : "test_1[my_fixture0]",
+  "time" : {
+    "start" : 1618358616063,
+    "stop" : 1618358616064,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c9ca3713ded5f4b3",
+  "name" : "用例标题0-title",
+  "time" : {
+    "start" : 1618358617570,
+    "stop" : 1618358617571,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b161edcd748e34df",
+  "name" : "test_tianqi[101200101]",
+  "time" : {
+    "start" : 1618358616074,
+    "stop" : 1618358616495,
+    "duration" : 421
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ec67ec13319322ee",
+  "name" : "test_one",
+  "time" : {
+    "start" : 1618358617533,
+    "stop" : 1618358617534,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3221d35ba227c168",
+  "name" : "test_1",
+  "time" : {
+    "start" : 1618358617597,
+    "stop" : 1618358617597,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+} ]

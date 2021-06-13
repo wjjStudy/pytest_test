@@ -1,0 +1,2 @@
+[32mINFO    [0m testcases.test_case4:test_case4.py:12 
+----start------
